@@ -1,4 +1,6 @@
-master 1forward
+first merge of 
+	master 1forward
+	branch new
 This is file for testing.
 
 I am fine.
