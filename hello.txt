@@ -13,7 +13,6 @@ air-conditioner
 
 
 isa
-asdf
 asdihasd:1
 
 
